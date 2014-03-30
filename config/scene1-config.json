@@ -1,0 +1,66 @@
+[
+    {
+        "backg": "assets/scene1/1/backg/landscape.svg",
+        "img": [
+            "assets/scene1/1/img/reindeer.svg",
+            "assets/scene1/1/img/seal.svg",
+            "assets/scene1/1/img/koala.svg",
+            "assets/scene1/1/img/rabbit.svg",
+            "assets/scene1/1/img/fox.svg",
+            "assets/scene1/1/img/elephant.svg",
+            "assets/scene1/1/img/hippo.svg",
+            "assets/scene1/1/img/boar.svg",
+            "assets/scene1/1/img/dog.svg"
+        ],
+        "position":[
+            {
+                "x": 0.025,
+                "y": 0.45
+            },
+            {
+                "x": 0.1,
+                "y": 0.7
+            },
+            {
+                "x": 0.3,
+                "y": 0.65
+            },
+            {
+                "x": 0.4,
+                "y": 0.4
+            },
+            {
+                "x": 0.52,
+                "y": 0.55
+            },
+            {
+                "x": 0.7,
+                "y": 0.5
+            },
+            {
+                "x": 0.6,
+                "y": 0.8
+            },
+            {
+                "x": 0.85,
+                "y": 0.72
+            },
+            {
+                "x": 0.75,
+                "y": 0.25
+            }
+        ]
+    },
+    {
+        "backg": "assets/scene1/2/backg/hippo.svg",
+        "img":[
+            "assets/scene1/2/img/men-at-work.png"
+        ],
+        "position":[
+            {
+                "x": 0,
+                "y": 1.5
+            }
+        ]
+    }
+]
