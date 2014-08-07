@@ -1,4 +1,3 @@
-hippo-dev
-=========
+# Wellcome to Hippo Project
 
-Hippo Project Development Repository
+[Visit us! Hippoapp](http://fathomless-journey-9978.herokuapp.com/)
