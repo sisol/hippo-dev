@@ -1,6 +1,6 @@
 [
     {
-        "backg": "assets/scene2/1/backg/grandia.svg",
+        "backg": "assets/scene3/1/backg/landscape.svg",
         "img":[
 
         ],
@@ -10,10 +10,7 @@
             "",
             ""
         ],
-        "phraseWords":{
-            "es":[1, 2, 2, 3],
-            "en":[2, 2, 1, 3]
-        }
+        "word":"via"
     },
     {
         "backg": "assets/scene2/1/backg/grandia.svg",
